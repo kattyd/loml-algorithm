@@ -7,3 +7,5 @@ The show shows viewers what % match there was between the two selected and the p
 
 This is not a very good README but I hope it has done a good job of encapsulating what this program is and what it does.
 Cheers!
+
+** This is also my first python program. I have used the language before but this is the first time i have completed a full project with it. **
